@@ -1,4 +1,4 @@
-# DA-e-commerce
+## DA-e-commerce
 **Стек:** python, библиотеки pandas, datetime, визуализация с помощью matplotlib, seaborn, plotly.express
  
 **Задачи:**
